@@ -1,1 +1,1 @@
-# PossibilitySimulator-R
+# RandomWalk-R
